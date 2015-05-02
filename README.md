@@ -4,6 +4,8 @@
 
 一个快速在github上搭建日记的工具
 
+[DEMO](http://lingyucoder.github.io/diary/#/2015/4/10)
+
 ## 安装
 
 ```shell
