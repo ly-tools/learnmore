@@ -22,8 +22,8 @@ $lm init
 
 ```
 CWD --- learnmore.json
-		 |
-		 +- source
+     |
+     +- source
 ```
 
 ## 新建日记
